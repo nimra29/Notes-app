@@ -1,0 +1,3 @@
+exports.config= ()=>{
+    dbName='notes'
+}
